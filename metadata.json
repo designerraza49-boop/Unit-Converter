@@ -1,0 +1,7 @@
+{
+  "name": "Universal Unit Converter & AI Tools",
+  "description": "A comprehensive unit converter and calculator app with smart tools and AI-powered features. Convert units, perform calculations, use handy tools, and leverage Gemini for natural language conversions and image generation.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}

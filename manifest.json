@@ -1,0 +1,21 @@
+{
+  "name": "Universal Unit Converter & AI Tools",
+  "short_name": "Uniconv",
+  "description": "A comprehensive unit converter and calculator app with smart tools and AI-powered features.",
+  "start_url": ".",
+  "display": "standalone",
+  "background_color": "#111827",
+  "theme_color": "#8b5cf6",
+  "icons": [
+    {
+      "src": "data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIGZpbGw9Im5vbmUiIHZpZXdCb3g9IjAgMCAyNCAyNCIgc3Ryb2tlLXdpZHRoPSIyIiBzdHJva2U9IiM4YjVjZjYiPjxwYXRoIHN0cm9rZS1saW5lY2FwPSJyb3VuZCIgc3Ryb2tlLWxpbmVqb2luPSJyb3VuZCIgZD0iTTE0IDEwbC0yIDFtMCAwbC0yLTFtMiAxdiI+PC9wYXRoPjxwYXRoIHN0cm9rZS1saW5lY2FwPSJyb3VuZCIgc3Ryb2tlLWxpbmVqb2luPSJyb3VuZCIgZD0iTTIwIDdsLTIgMW0yLTFsLTItMW0yIDF2Mi41TTE0IDRsLTItMS0yIDFNOCA3TDYgNm0yIDFMNiA4bTggMTBsMiAxdi0yLjVNNiAxOGwtMi0xdi0yLjVNMjAgN2wtOC00LTggNE00IDdsOC00bDIgMS41TTQgN2w4IDQgOC00bS04IDR2OSI+PC9wYXRoPjwvc3ZnPg==",
+      "sizes": "192x192",
+      "type": "image/svg+xml"
+    },
+    {
+      "src": "data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIGZpbGw9Im5vbmUiIHZpZXdCb3g9IjAgMCAyNCAyNCIgc3Ryb2tlLXdpZHRoPSIyIiBzdHJva2U9IiM4YjVjZjYiPjxwYXRoIHN0cm9rZS1saW5lY2FwPSJyb3VuZCIgc3Ryb2tlLWxpbmVqb2luPSJyb3VuZCIgZD0iTTE0IDEwbC0yIDFtMCAwbC0yLTFtMiAxdiI+PC9wYXRoPjxwYXRoIHN0cm9rZS1saW5lY2FwPSJyb3VuZCIgc3Ryb2tlLWxpbmVqb2luPSJyb3VuZCIgZD0iTTIwIDdsLTIgMW0yLTFsLTItMW0yIDF2Mi41TTE0IDRsLTItMS0yIDFNOCA3TDYgNm0yIDFMNiA4bTggMTBsMiAxdi0yLjVNNiAxOGwtMi0xdi0yLjVNMjAgN2wtOC00LTggNE00IDdsOC00bDIgMS41TTQgN2w4IDQgOC00bS04IDR2OSI+PC9wYXRoPjwvc3ZnPg==",
+      "sizes": "512x512",
+      "type": "image/svg+xml"
+    }
+  ]
+}
